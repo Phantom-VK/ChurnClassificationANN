@@ -1,7 +1,7 @@
-tensorflow
-pandas
+pandas~=2.3.1
 numpy
-scikit-learn
+scikit-learn~=1.7.1
 tensorboard
 matplotlib
 streamlit
+tensorflow[and-cuda]
