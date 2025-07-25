@@ -5,3 +5,5 @@ tensorboard
 matplotlib
 streamlit
 tensorflow[and-cuda] >= 2.19.0
+keras
+scikeras
